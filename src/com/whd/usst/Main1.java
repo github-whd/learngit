@@ -1,6 +1,6 @@
 package com.whd.usst;
 
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) {
         /**
@@ -16,8 +16,6 @@ public class Main {
 
         // write your code here
         System.out.println("Hello World!");
-        System.out.println("你好");
-        System.out.println("你ssshhhhhh好");
-        System.out.println("啦啦啦，下雨了！");
+        System.out.println("北京！");
     }
 }
