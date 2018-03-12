@@ -16,6 +16,6 @@ public class Main2 {
 
         // write your code here
         System.out.println("Hello World!");
-        System.out.println("上海");
+        System.out.println("上海，一线城市！");
     }
 }
