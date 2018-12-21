@@ -19,6 +19,7 @@
 
 /**
  * Created by lenovo on 2018/3/9.
+ * aaaaaaa
  */
 public class Human {
     public static void main(String[] args){
